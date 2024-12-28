@@ -127,12 +127,6 @@ python -c "import torch; print(torch.cuda.is_available())"
 
 ---
 
-## Contributing
-We welcome contributions! To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request.
-
 ---
 
 
